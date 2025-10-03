@@ -15,7 +15,7 @@
 body {
     font-family: "Segoe UI", sans-serif;
     background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-        url('https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1600&q=80'); /* Modern food background */
+        url('https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=1600&q=80'); 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -245,3 +245,4 @@ h1 {
     </div>
 </body>
 </html>
+
